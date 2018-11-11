@@ -19,7 +19,7 @@
    <label name="message">Message:</label>
  <textarea id="message" name="message" class="form-control">Type your message here...</textarea>
   </div>
-  <input type="summit" value="send message" class="btn btn-success">
+  <input type="submit" value="send message" class="btn btn-success">
   </form>
 </div>
     </div>
